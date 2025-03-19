@@ -1,12 +1,7 @@
 <h1>Agentic RAG (Retrieval Augmented Generation) with LangChain and Supabase</h1>
 
 <h2>Watch the full tutorial on my YouTube Channel</h2>
-<div>
 
-<a href="https://www.youtube.com/watch?v=3ZDeqTIXBPM">
-    <img src="thumbnail.png" alt="Thomas Janssen Youtube" width="200"/>
-</a>
-</div>
 
 <h2>Prerequisites</h2>
 <ul>
@@ -104,15 +99,4 @@ python agentic_rag.py
 streamlit run agentic_rag_streamlit.py
 ```
 
-<h2>Sources</h2>
 
-While making this video, I used the following sources:
-
-<ul>
-<li>https://python.langchain.com/docs/integrations/vectorstores/supabase/</li>
-<li>https://python.langchain.com/docs/integrations/text_embedding/openai/</li>
-<li>https://platform.openai.com/docs/guides/embeddings</li>
-<li>https://www.kaggle.com/code/youssef19/documents-splitting-with-langchain</li>
-<li>https://openai.com/index/new-embedding-models-and-api-updates/</li>
-<li>https://zilliz.com/ai-models/text-embedding-3-small</li>
-</ul>
