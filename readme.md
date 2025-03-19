@@ -1,6 +1,6 @@
 <h1>Agentic RAG (Retrieval Augmented Generation) with LangChain and Supabase</h1>
 
-<h2>Watch the full tutorial on my YouTube Channel</h2>
+
 
 
 <h2>Prerequisites</h2>
@@ -12,8 +12,8 @@
 <h3>1. Clone the repository:</h3>
 
 ```
-git clone https://github.com/ThomasJanssen-tech/Agentic-RAG-with-LangChain.git
-cd Agentic RAG with LangChain
+git clone [https://github.com/kienprojects/agenticRAG.git]
+cd Agentic RAG
 ```
 
 <h3>2. Create a virtual environment</h3>
