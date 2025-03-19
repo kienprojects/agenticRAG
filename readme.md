@@ -12,7 +12,7 @@
 <h3>1. Clone the repository:</h3>
 
 ```
-git clone [https://github.com/kienprojects/agenticRAG.git]
+git clone https://github.com/kienprojects/agenticRAG.git
 cd Agentic RAG
 ```
 
